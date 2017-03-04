@@ -1,0 +1,23 @@
+{
+  "name": "eng-log-test",
+  "version": "1.0.0",
+  "description": "Simple app for sending logs and debuging.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ENG618/eng-log-test.git"
+  },
+  "keywords": [
+    "logs",
+    "debug"
+  ],
+  "author": "Eric N. Garcia",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ENG618/eng-log-test/issues"
+  },
+  "homepage": "https://github.com/ENG618/eng-log-test#readme"
+}
